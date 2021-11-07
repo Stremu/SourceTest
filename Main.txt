@@ -1,0 +1,8 @@
+#include <iostream.h>
+#include <lib>
+
+void main()
+{
+  cout << ""Hello world;
+  cout << sum(100, 200);
+}
